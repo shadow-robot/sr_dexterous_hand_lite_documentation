@@ -26,9 +26,9 @@ a compact module, 13 of which are packed into the Hand base.
 Overview
 --------
 
-* :doc:`/user_guide/ov_pelicase_contents`
-* :doc:`/user_guide/ov_laptopbox_contents`
-* :doc:`/user_guide/ov_abbreviations`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/ov_pelicase_contents`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/ov_laptopbox_contents`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/ov_abbreviations`
 
 
 .. toctree::
@@ -36,53 +36,53 @@ Overview
    :hidden:
    :caption: Overview
    
-   user_guide/ov_pelicase_contents
-   user_guide/ov_laptopbox_contents
-   user_guide/ov_abbreviations
+   sr_dexterous_hand_documentation/docs/user_guide/ov_pelicase_contents
+   sr_dexterous_hand_documentation/docs/user_guide/ov_laptopbox_contents
+   sr_dexterous_hand_documentation/docs/user_guide/ov_abbreviations
 
    
 Setting up the hand
 --------------------
 
-* :doc:`/user_guide/sh_connecting_cables`
-* :doc:`/user_guide/sh_desktop_icons`
-* :doc:`/user_guide/sh_mounting_hand_arm`
-* :doc:`/user_guide/sh_launching_hand`
-* :doc:`/user_guide/sh_lights`
-* :doc:`/user_guide/sh_uploading_logs`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_connecting_cables`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_desktop_icons`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_mounting_hand_arm`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_launching_hand`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_lights`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_uploading_logs`
    
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Setting up the hand
    
-   user_guide/sh_connecting_cables
-   user_guide/sh_desktop_icons
-   user_guide/sh_mounting_hand_arm
-   user_guide/sh_launching_hand
-   user_guide/sh_lights
-   user_guide/sh_uploading_logs
+   sr_dexterous_hand_documentation/docs/user_guide/sh_connecting_cables
+   sr_dexterous_hand_documentation/docs/user_guide/sh_desktop_icons
+   sr_dexterous_hand_documentation/docs/user_guide/sh_mounting_hand_arm
+   sr_dexterous_hand_documentation/docs/user_guide/sh_launching_hand
+   sr_dexterous_hand_documentation/docs/user_guide/sh_lights
+   sr_dexterous_hand_documentation/docs/user_guide/sh_uploading_logs
    
 Simulation
 --------------------------------
 
-* :doc:`/user_guide/sim_gazebo`
+* :doc:`sr_dexterous_hand_documentation/docs//user_guide/sim_gazebo`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Simulation
    
-   user_guide/sim_gazebo
+   sr_dexterous_hand_documentation/docs/user_guide/sim_gazebo
    
 Software description
 ---------------------
 
-* :doc:`/user_guide/sd_First_time_users`
-* :doc:`/user_guide/sd_Controling_hand`
-* :doc:`/user_guide/sd_Accesing_data`
-* :doc:`/user_guide/sd_User_Interface`
-* :doc:`/user_guide/sd_Command_line`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_First_time_users`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Controling_hand`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Accesing_data`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_User_Interface`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Command_line`
 * :doc:`/user_guide/sd_Repositories`
 * :doc:`/user_guide/sd_Robot_commander`
 * :doc:`/user_guide/sd_Saving_states`
