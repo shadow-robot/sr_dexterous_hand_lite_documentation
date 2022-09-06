@@ -42,7 +42,7 @@ To start the simulation of a bimanual system, you can run:
    
 Unimanual arm and hand system
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: ../img/sim_unimanual_arm_and_hand.png
+.. image:: ../img/sim_unimanual_2.png
     :align: center
 
 To start the simulation of a unimanual right system, you can run:
@@ -54,7 +54,7 @@ To start the simulation of a unimanual right system, you can run:
   
 To add a scene, you can add ``scene:=true`` and you our default scene. You can also add your own scene adding a ``scene_file`` parameter.
 
-.. image:: ../img/sim_unimanual_arm_and_hand_with_scene.png
+.. image:: ../img/sim_unimanual.png
     :align: center
 
 Similarly, to start the simulation of a unimanual left system, you can run:
@@ -65,7 +65,7 @@ Similarly, to start the simulation of a unimanual left system, you can run:
 
 Bimanual arm and hand system
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: ../img/sim_bimanual_arm_and_hand.png
+.. image:: ../img/sim_bimanual_arm_2.png
     :align: center
 
 To start the simulation of a bimanual arm and hand system, you can run:
@@ -76,7 +76,7 @@ To start the simulation of a bimanual arm and hand system, you can run:
   
 To add a scene, you can add ``scene:=true`` and you will see our default scene. 
 
-.. image:: ../img/sim_bimanual_arm_and_hand_with_scene.png
+.. image:: ../img/sim_bimanual_arm.png
     :align: center
 
 You can also add your own scene adding a ``scene_file`` parameter.
