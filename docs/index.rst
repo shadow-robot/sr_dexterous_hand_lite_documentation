@@ -83,31 +83,31 @@ Software description
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Accesing_data`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_User_Interface`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Command_line`
-* :doc:`/user_guide/sd_Repositories`
-* :doc:`/user_guide/sd_Robot_commander`
-* :doc:`/user_guide/sd_Saving_states`
-* :doc:`/user_guide/sd_Autodetection`
-* :doc:`/user_guide/sd_Robot_description`
-* :doc:`/user_guide/sd_Fingertips`
-* :doc:`/user_guide/sd_Firmware`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Repositories`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Robot_commander`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Saving_states`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Autodetection`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Robot_description`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Fingertips`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Firmware`
    
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Software description
    
-   user_guide/sd_First_time_users
-   user_guide/sd_Controling_hand
-   user_guide/sd_Accesing_data
-   user_guide/sd_User_Interface
-   user_guide/sd_Command_line
-   user_guide/sd_Repositories
-   user_guide/sd_Robot_commander
-   user_guide/sd_Saving_states
-   user_guide/sd_Autodetection
-   user_guide/sd_Robot_description
-   user_guide/sd_Fingertips
-   user_guide/sd_Firmware
+   sr_dexterous_hand_documentation/user_guide/sd_First_time_users
+   sr_dexterous_hand_documentation/user_guide/sd_Controling_hand
+   sr_dexterous_hand_documentation/user_guide/sd_Accesing_data
+   sr_dexterous_hand_documentation/user_guide/sd_User_Interface
+   sr_dexterous_hand_documentation/user_guide/sd_Command_line
+   sr_dexterous_hand_documentation/user_guide/sd_Repositories
+   sr_dexterous_hand_documentation/user_guide/sd_Robot_commander
+   sr_dexterous_hand_documentation/user_guide/sd_Saving_states
+   sr_dexterous_hand_documentation/user_guide/sd_Autodetection
+   sr_dexterous_hand_documentation/user_guide/sd_Robot_description
+   sr_dexterous_hand_documentation/user_guide/sd_Fingertips
+   sr_dexterous_hand_documentation/user_guide/sd_Firmware
 
 Mechanical description
 -----------------------------------
@@ -118,7 +118,7 @@ Mechanical description
 * :doc:`/user_guide/md_thumb`
 * :doc:`/user_guide/md_wrist`
 * :doc:`/user_guide/md_ranges`
-* :doc:`/user_guide/md_position_sensors`
+* :doc:`user_guide/md_position_sensors`
 * :doc:`/user_guide/md_motor_unit`
 * :doc:`/user_guide/md_motor_layout`
    
@@ -140,75 +140,75 @@ Mechanical description
 Electrical description
 -----------------------------------
 
-* :doc:`user_guide/ed_chipset`
-* :doc:`user_guide/ed_dataflow`
-* :doc:`user_guide/ed_control_description`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/ed_chipset`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/ed_dataflow`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/ed_control_description`
    
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Electrical description
 
-   user_guide/ed_chipset
-   user_guide/ed_dataflow
-   user_guide/ed_control_description
+   sr_dexterous_hand_documentation/user_guide/ed_chipset
+   sr_dexterous_hand_documentation/user_guide/ed_dataflow
+   sr_dexterous_hand_documentation/user_guide/ed_control_description
    
 Connectors and Pinouts
 -----------------------------------
 
-* :doc:`user_guide/cp_external_connectors`
-* :doc:`user_guide/cp_internal_connectors`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/cp_external_connectors`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/cp_internal_connectors`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Connectors and Pinouts
 
-   user_guide/cp_external_connectors
-   user_guide/cp_internal_connectors
+   sr_dexterous_hand_documentation/user_guide/cp_external_connectors
+   sr_dexterous_hand_documentation/user_guide/cp_internal_connectors
    
 Maintaining the system
 -----------------------
 
-* :doc:`/user_guide/mh_mechanical_maintenance`
-* :doc:`/user_guide/mh_electronic_maintenance`
-* :doc:`/user_guide/mh_installing_the_software`
+* :doc:`/sr_dexterous_hand_documentation//user_guide/mh_mechanical_maintenance`
+* :doc:`/sr_dexterous_hand_documentation//user_guide/mh_electronic_maintenance`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/mh_installing_the_software`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Maintaining the hand
    
-   user_guide/mh_mechanical_maintenance
-   user_guide/mh_electronic_maintenance
-   user_guide/mh_installing_the_software
+   sr_dexterous_hand_documentation/user_guide/mh_mechanical_maintenance
+   sr_dexterous_hand_documentation/user_guide/mh_electronic_maintenance
+   sr_dexterous_hand_documentation/user_guide/mh_installing_the_software
 
 FAQ & Changelog
 ----------------
 
-* :doc:`/user_guide/fc_FAQ`
-* :doc:`/user_guide/fc_nuc_server`
-* :doc:`/user_guide/fc_changelog`
+* :doc:`/sr_dexterous_hand_documentation//user_guide/fc_FAQ`
+* :doc:`/sr_dexterous_hand_documentation//user_guide/fc_nuc_server`
+* :doc:`/sr_dexterous_hand_documentation//user_guide/fc_changelog`
    
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: FAQ & Changelog
    
-   user_guide/fc_FAQ
-   user_guide/fc_nuc_server
-   user_guide/fc_changelog
+   sr_dexterous_hand_documentation/user_guide/fc_FAQ
+   sr_dexterous_hand_documentation/user_guide/fc_nuc_server
+   sr_dexterous_hand_documentation/user_guide/fc_changelog
 
 Support & Teamviewer
 ---------------------
 
-* :doc:`/user_guide/sp_support`
-* :doc:`/user_guide/sp_restore_backup`
+* :doc:`/sr_dexterous_hand_documentation//user_guide/sp_support`
+* :doc:`/sr_dexterous_hand_documentation//user_guide/sp_restore_backup`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Support & Teamviewer
    
-   user_guide/sp_support
-   user_guide/sp_restore_backup
+   sr_dexterous_hand_documentation/user_guide/sp_support
+   sr_dexterous_hand_documentation/user_guide/sp_restore_backup
