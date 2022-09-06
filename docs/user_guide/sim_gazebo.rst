@@ -61,7 +61,7 @@ Similarly, to start the simulation of a unimanual left system, you can run:
 
 .. prompt:: bash $
 
-   roslaunch sr_robot_launch sr_left_ur10arm_hand.launch hand_type:="hand_g"
+   roslaunch sr_robot_launch sr_left_ur10arm_hand.launch sim:=true hand_type:="hand_g"
 
 Bimanual arm and hand system
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
