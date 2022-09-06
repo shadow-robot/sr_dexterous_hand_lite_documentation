@@ -26,7 +26,7 @@ a compact module, 13 of which are packed into the Hand base.
 Overview
 --------
 
-* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/ov_pelicase_contents`
+* :doc:`/user_guide/ov_pelicase_contents`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/ov_laptopbox_contents`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/ov_abbreviations`
 
@@ -36,7 +36,7 @@ Overview
    :hidden:
    :caption: Overview
    
-   sr_dexterous_hand_lite_documentation/docs/user_guide/ov_pelicase_contents
+   user_guide/ov_pelicase_contents
    sr_dexterous_hand_documentation/docs/user_guide/ov_laptopbox_contents
    sr_dexterous_hand_documentation/docs/user_guide/ov_abbreviations
 
