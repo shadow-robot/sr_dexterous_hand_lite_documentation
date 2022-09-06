@@ -66,7 +66,7 @@ Setting up the hand
 Simulation
 --------------------------------
 
-* :doc:`sr_dexterous_hand_documentation/docs//user_guide/sim_gazebo`
+* :doc:`/docs//user_guide/sim_gazebo`
 
 .. toctree::
    :maxdepth: 2
