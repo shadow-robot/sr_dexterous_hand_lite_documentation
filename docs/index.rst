@@ -83,13 +83,13 @@ Software description
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Accesing_data`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_User_Interface`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Command_line`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Repositories`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Robot_commander`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Saving_states`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Autodetection`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Robot_description`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Fingertips`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/sd_Firmware`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Repositories`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Robot_commander`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Saving_states`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Autodetection`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Robot_description`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Fingertips`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sd_Firmware`
    
 .. toctree::
    :maxdepth: 2
