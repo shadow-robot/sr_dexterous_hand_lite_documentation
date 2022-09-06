@@ -44,7 +44,7 @@ Overview
 Setting up the hand
 --------------------
 
-* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/sh_connecting_cables`
+* :doc:`/user_guide/sh_connecting_cables`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_desktop_icons`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_mounting_hand_arm`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_launching_hand`
@@ -56,7 +56,7 @@ Setting up the hand
    :hidden:
    :caption: Setting up the hand
    
-   sr_dexterous_hand_lite_documentation/docs/user_guide/sh_connecting_cables
+   user_guide/sh_connecting_cables
    sr_dexterous_hand_documentation/docs/user_guide/sh_desktop_icons
    sr_dexterous_hand_documentation/docs/user_guide/sh_mounting_hand_arm
    sr_dexterous_hand_documentation/docs/user_guide/sh_launching_hand
@@ -66,14 +66,14 @@ Setting up the hand
 Simulation
 --------------------------------
 
-* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/sim_gazebo`
+* :doc:`/user_guide/sim_gazebo`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Simulation
    
-   sr_dexterous_hand_lite_documentation/docs/user_guide/sim_gazebo
+   user_guide/sim_gazebo
    
 Software description
 ---------------------
