@@ -116,7 +116,6 @@ Mechanical description
 * :doc:`/user_guide/md_kinematics`
 * :doc:`/sr_dexterous_hand_documentation/user_guide/md_finger`
 * :doc:`/sr_dexterous_hand_documentation/user_guide/md_thumb`
-* :doc:`/user_guide/md_wrist`
 * :doc:`/user_guide/md_ranges`
 * :doc:`user_guide/md_position_sensors`
 * :doc:`/user_guide/md_motor_unit`
@@ -131,7 +130,6 @@ Mechanical description
    user_guide/md_kinematics
    sr_dexterous_hand_documentation/user_guide/md_finger
    sr_dexterous_hand_documentation/user_guide/md_thumb
-   user_guide/md_wrist
    user_guide/md_ranges
    user_guide/md_position_sensors
    user_guide/md_motor_unit
