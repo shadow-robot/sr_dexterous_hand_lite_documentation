@@ -20,8 +20,9 @@ The Hands use Shadow's electric “Smart Motor” actuation system and integrate
 control electronics, motor drive electronics, motor, gearbox, force sensing and communications into
 a compact module, 13 of which are packed into the Hand base.
 
-.. image:: img/index_shadow_dexterous_hand.png
-   :width: 100%
+.. image:: img/index_hand_lite.png
+   :width: 45%
+   :align: center
 
 Overview
 --------
