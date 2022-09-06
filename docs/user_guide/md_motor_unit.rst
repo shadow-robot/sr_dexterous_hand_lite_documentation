@@ -14,7 +14,7 @@ Small vs Large
 
 Two types of motors are used in this hand design.
 
-**Small Motors**: Sixteen small motors are used for all finger joints, and most thumb joints.
+**Small Motors**: Eleven small motors are used for all finger joints, and most thumb joints.
 
 +----------------------------------+---------------+--------+
 | Part                             | Value         | Units  |
@@ -34,7 +34,7 @@ Two types of motors are used in this hand design.
 | Max continuous current           | 217           | mA     |
 +----------------------------------+---------------+--------+
 
-**Large Motors**: Four large motors are used for the two wrist joints, and thumb joints 4 and 5.
+**Large Motors**: Two large motors are used for the two wrist joints, and thumb joints 4 and 5.
 
 +----------------------------------+---------------+--------+
 | Part                             | Value         | Units  |
