@@ -36,7 +36,7 @@ Overview
    :hidden:
    :caption: Overview
    
-   sr_dexterous_hand_documentation/docs/user_guide/ov_pelicase_contents
+   sr_dexterous_hand_lite_documentation/docs/user_guide/ov_pelicase_contents
    sr_dexterous_hand_documentation/docs/user_guide/ov_laptopbox_contents
    sr_dexterous_hand_documentation/docs/user_guide/ov_abbreviations
 
@@ -44,7 +44,7 @@ Overview
 Setting up the hand
 --------------------
 
-* :doc:`/docs/user_guide/sh_connecting_cables`
+* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/sh_connecting_cables`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_desktop_icons`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_mounting_hand_arm`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_launching_hand`
@@ -56,7 +56,7 @@ Setting up the hand
    :hidden:
    :caption: Setting up the hand
    
-   sr_dexterous_hand_documentation/docs/user_guide/sh_connecting_cables
+   sr_dexterous_hand_lite_documentation/docs/user_guide/sh_connecting_cables
    sr_dexterous_hand_documentation/docs/user_guide/sh_desktop_icons
    sr_dexterous_hand_documentation/docs/user_guide/sh_mounting_hand_arm
    sr_dexterous_hand_documentation/docs/user_guide/sh_launching_hand
@@ -66,14 +66,14 @@ Setting up the hand
 Simulation
 --------------------------------
 
-* :doc:`/docs//user_guide/sim_gazebo`
+* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/sim_gazebo`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Simulation
    
-   sr_dexterous_hand_documentation/docs/user_guide/sim_gazebo
+   sr_dexterous_hand_lite_documentation/docs/user_guide/sim_gazebo
    
 Software description
 ---------------------
@@ -112,28 +112,28 @@ Software description
 Mechanical description
 -----------------------------------
 
-* :doc:`/user_guide/md_dimentions`
-* :doc:`/user_guide/md_kinematics`
+* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_dimentions`
+* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_kinematics`
 * :doc:`/sr_dexterous_hand_documentation/user_guide/md_finger`
 * :doc:`/sr_dexterous_hand_documentation/user_guide/md_thumb`
-* :doc:`/user_guide/md_ranges`
-* :doc:`user_guide/md_position_sensors`
-* :doc:`/user_guide/md_motor_unit`
-* :doc:`/user_guide/md_motor_layout`
+* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_ranges`
+* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_position_sensors`
+* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_motor_unit`
+* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_motor_layout`
    
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Mechanical description
 
-   user_guide/md_dimentions
-   user_guide/md_kinematics
+   sr_dexterous_hand_lite_documentation/docs/user_guide/md_dimentions
+   sr_dexterous_hand_lite_documentation/docs/user_guide/md_kinematics
    sr_dexterous_hand_documentation/user_guide/md_finger
    sr_dexterous_hand_documentation/user_guide/md_thumb
-   user_guide/md_ranges
-   user_guide/md_position_sensors
-   user_guide/md_motor_unit
-   user_guide/md_motor_layout
+   sr_dexterous_hand_lite_documentation/docs/user_guide/md_ranges
+   sr_dexterous_hand_lite_documentation/docs/user_guide/md_position_sensors
+   sr_dexterous_hand_lite_documentation/docs/user_guide/md_motor_unit
+   sr_dexterous_hand_lite_documentation/docs/user_guide/md_motor_layout
 
 Electrical description
 -----------------------------------
