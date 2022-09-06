@@ -1,6 +1,9 @@
 Ranges
 =======
 
+The Dexterous Hand Lite kinematics are optimized to be as close as possible (within engineering
+constraints) to the kinematics of the human hand.
+
 +---------------------+----------+----------+----------+----------+----------+
 | Joint(s)            | Min deg  | Max deg  | Min rad  | Max rad  | Notes    |
 +=====================+==========+==========+==========+==========+==========+
@@ -12,13 +15,9 @@ Ranges
 +---------------------+----------+----------+----------+----------+----------+
 | FF4, MF4, RF4, LF4  | -20      | 20       | -0.349   | 0.349    |          |
 +---------------------+----------+----------+----------+----------+----------+
-| LF5                 | 0        | 45       | 0        | 0.785    |          |
-+---------------------+----------+----------+----------+----------+----------+
 | TH1                 | -15      | 90       | -0.262   | 1.571    |          |
 +---------------------+----------+----------+----------+----------+----------+
 | TH2                 | -40      | 40       | -0.698   | 0.698    |          |
-+---------------------+----------+----------+----------+----------+----------+
-| TH3                 | -12      | 12       | -0.209   | 0.209    |          |
 +---------------------+----------+----------+----------+----------+----------+
 | TH4                 | 0        | 70       | 0        | 1.222    |          |
 +---------------------+----------+----------+----------+----------+----------+
@@ -26,5 +25,10 @@ Ranges
 +---------------------+----------+----------+----------+----------+----------+
 | WR1                 | -40      | 28       | -0.698   | 0.489    |          |
 +---------------------+----------+----------+----------+----------+----------+
-| WR2                 | -28      | 10       | -0.489   | 0.174    |          |
-+---------------------+----------+----------+----------+----------+----------+
+
+The thumb has 4 degrees of freedom and 4 joints. Each finger has 3 degrees of freedom and 4
+joints.
+The distal joints of the fingers are coupled in a manner similar to a human finger, such that the
+angle of the middle joint is always greater than or equal to the angle of the distal joint. This allows
+the middle phalange to bend while the distal phalange is straight.
+All joints except the finger distal joints are controllable to +/- 1° across the full range of movement.
