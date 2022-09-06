@@ -37,7 +37,7 @@ To start the simulation of a bimanual system, you can run:
 
 .. prompt:: bash $
 
-   roslaunch sr_robot_launch sr_bimanual.launch sim:=true hand_type:="hand_g"
+   roslaunch sr_robot_launch sr_bimanual.launch sim:=true right_hand_type:="hand_g" left_hand_type:="hand_g"
    
    
 Unimanual arm and hand system
@@ -49,7 +49,8 @@ To start the simulation of a unimanual right system, you can run:
 
 .. prompt:: bash $
 
-   roslaunch sr_robot_launch sr_right_ur10arm_hand.launch sim:=true hand_type:="hand_g"
+   roslaunch sr_robot_launch sr_right_ur10arm_hand.launch sim:=true hand_type:="hand_g"         
+   
   
 To add a scene, you can add ``scene:=true`` and you our default scene. You can also add your own scene adding a ``scene_file`` parameter.
 
