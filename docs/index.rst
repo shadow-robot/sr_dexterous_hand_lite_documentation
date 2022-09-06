@@ -44,7 +44,7 @@ Overview
 Setting up the hand
 --------------------
 
-* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_connecting_cables`
+* :doc:`/docs/user_guide/sh_connecting_cables`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_desktop_icons`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_mounting_hand_arm`
 * :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sh_launching_hand`
