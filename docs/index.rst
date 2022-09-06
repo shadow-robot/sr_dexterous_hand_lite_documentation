@@ -114,8 +114,8 @@ Mechanical description
 
 * :doc:`/user_guide/md_dimentions`
 * :doc:`/user_guide/md_kinematics`
-* :doc:`/user_guide/md_finger`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/md_thumb`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/md_finger`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/md_thumb`
 * :doc:`/user_guide/md_ranges`
 * :doc:`/user_guide/md_position_sensors`
 * :doc:`/user_guide/md_motor_unit`
@@ -138,9 +138,9 @@ Mechanical description
 Electrical description
 -----------------------------------
 
-* :doc:`/sr_dexterous_hand_documentation/user_guide/ed_chipset`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/ed_dataflow`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/ed_control_description`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/ed_chipset`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/ed_dataflow`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/ed_control_description`
    
 .. toctree::
    :maxdepth: 2
@@ -154,8 +154,8 @@ Electrical description
 Connectors and Pinouts
 -----------------------------------
 
-* :doc:`/sr_dexterous_hand_documentation/user_guide/cp_external_connectors`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/cp_internal_connectors`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/cp_external_connectors`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/cp_internal_connectors`
 
 .. toctree::
    :maxdepth: 2
@@ -168,9 +168,9 @@ Connectors and Pinouts
 Maintaining the system
 -----------------------
 
-* :doc:`/sr_dexterous_hand_documentation/user_guide/mh_mechanical_maintenance`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/mh_electronic_maintenance`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/mh_installing_the_software`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/mh_mechanical_maintenance`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/mh_electronic_maintenance`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/mh_installing_the_software`
 
 .. toctree::
    :maxdepth: 2
@@ -184,24 +184,24 @@ Maintaining the system
 FAQ & Changelog
 ----------------
 
-* :doc:`/sr_dexterous_hand_documentation/user_guide/fc_FAQ`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/fc_nuc_server`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/fc_changelog`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/fc_FAQ`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/fc_nuc_server`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/fc_changelog`
    
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: FAQ & Changelog
    
-   sr_dexterous_hand_documentation/user_guide/fc_FAQ
-   sr_dexterous_hand_documentation/user_guide/fc_nuc_server
-   sr_dexterous_hand_documentation/user_guide/fc_changelog
+   sr_dexterous_hand_documentation/docs/user_guide/fc_FAQ
+   sr_dexterous_hand_documentation/docs/user_guide/fc_nuc_server
+   sr_dexterous_hand_documentation/docs/user_guide/fc_changelog
 
 Support & Teamviewer
 ---------------------
 
-* :doc:`/sr_dexterous_hand_documentation/user_guide/sp_support`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/sp_restore_backup`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sp_support`
+* :doc:`/sr_dexterous_hand_documentation/docs/user_guide/sp_restore_backup`
 
 .. toctree::
    :maxdepth: 2
