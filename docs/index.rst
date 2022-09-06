@@ -96,18 +96,18 @@ Software description
    :hidden:
    :caption: Software description
    
-   sr_dexterous_hand_documentation/user_guide/sd_First_time_users
-   sr_dexterous_hand_documentation/user_guide/sd_Controling_hand
-   sr_dexterous_hand_documentation/user_guide/sd_Accesing_data
-   sr_dexterous_hand_documentation/user_guide/sd_User_Interface
-   sr_dexterous_hand_documentation/user_guide/sd_Command_line
-   sr_dexterous_hand_documentation/user_guide/sd_Repositories
-   sr_dexterous_hand_documentation/user_guide/sd_Robot_commander
-   sr_dexterous_hand_documentation/user_guide/sd_Saving_states
-   sr_dexterous_hand_documentation/user_guide/sd_Autodetection
-   sr_dexterous_hand_documentation/user_guide/sd_Robot_description
-   sr_dexterous_hand_documentation/user_guide/sd_Fingertips
-   sr_dexterous_hand_documentation/user_guide/sd_Firmware
+   sr_dexterous_hand_documentation/docs/user_guide/sd_First_time_users
+   sr_dexterous_hand_documentation/docs/user_guide/sd_Controling_hand
+   sr_dexterous_hand_documentation/docs/user_guide/sd_Accesing_data
+   sr_dexterous_hand_documentation/docs/user_guide/sd_User_Interface
+   sr_dexterous_hand_documentation/docs/user_guide/sd_Command_line
+   sr_dexterous_hand_documentation/docs/user_guide/sd_Repositories
+   sr_dexterous_hand_documentation/docs/user_guide/sd_Robot_commander
+   sr_dexterous_hand_documentation/docs/user_guide/sd_Saving_states
+   sr_dexterous_hand_documentation/docs/user_guide/sd_Autodetection
+   sr_dexterous_hand_documentation/docs/user_guide/sd_Robot_description
+   sr_dexterous_hand_documentation/docs/user_guide/sd_Fingertips
+   sr_dexterous_hand_documentation/docs/user_guide/sd_Firmware
 
 Mechanical description
 -----------------------------------
