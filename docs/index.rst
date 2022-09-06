@@ -112,28 +112,28 @@ Software description
 Mechanical description
 -----------------------------------
 
-* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_dimentions`
-* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_kinematics`
-* :doc:`/sr_dexterous_hand_documentation/user_guide/md_finger`
+* :doc:`/user_guide/md_dimentions`
+* :doc:`/user_guide/md_kinematics`
+* :doc:`/user_guide/md_finger`
 * :doc:`/sr_dexterous_hand_documentation/user_guide/md_thumb`
-* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_ranges`
-* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_position_sensors`
-* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_motor_unit`
-* :doc:`/sr_dexterous_hand_lite_documentation/docs/user_guide/md_motor_layout`
+* :doc:`/user_guide/md_ranges`
+* :doc:`/user_guide/md_position_sensors`
+* :doc:`/user_guide/md_motor_unit`
+* :doc:`/user_guide/md_motor_layout`
    
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Mechanical description
 
-   sr_dexterous_hand_lite_documentation/docs/user_guide/md_dimentions
-   sr_dexterous_hand_lite_documentation/docs/user_guide/md_kinematics
-   sr_dexterous_hand_documentation/user_guide/md_finger
-   sr_dexterous_hand_documentation/user_guide/md_thumb
-   sr_dexterous_hand_lite_documentation/docs/user_guide/md_ranges
-   sr_dexterous_hand_lite_documentation/docs/user_guide/md_position_sensors
-   sr_dexterous_hand_lite_documentation/docs/user_guide/md_motor_unit
-   sr_dexterous_hand_lite_documentation/docs/user_guide/md_motor_layout
+   user_guide/md_dimentions
+   user_guide/md_kinematics
+   sr_dexterous_hand_documentation/docs/user_guide/md_finger
+   sr_dexterous_hand_documentation/docs/user_guide/md_thumb
+   user_guide/md_ranges
+   user_guide/md_position_sensors
+   user_guide/md_motor_unit
+   user_guide/md_motor_layout
 
 Electrical description
 -----------------------------------
@@ -147,9 +147,9 @@ Electrical description
    :hidden:
    :caption: Electrical description
 
-   sr_dexterous_hand_documentation/user_guide/ed_chipset
-   sr_dexterous_hand_documentation/user_guide/ed_dataflow
-   sr_dexterous_hand_documentation/user_guide/ed_control_description
+   sr_dexterous_hand_documentation/docs/user_guide/ed_chipset
+   sr_dexterous_hand_documentation/docs/user_guide/ed_dataflow
+   sr_dexterous_hand_documentation/docs/user_guide/ed_control_description
    
 Connectors and Pinouts
 -----------------------------------
@@ -162,14 +162,14 @@ Connectors and Pinouts
    :hidden:
    :caption: Connectors and Pinouts
 
-   sr_dexterous_hand_documentation/user_guide/cp_external_connectors
-   sr_dexterous_hand_documentation/user_guide/cp_internal_connectors
+   sr_dexterous_hand_documentation/docs/user_guide/cp_external_connectors
+   sr_dexterous_hand_documentation/docs/user_guide/cp_internal_connectors
    
 Maintaining the system
 -----------------------
 
-* :doc:`/sr_dexterous_hand_documentation//user_guide/mh_mechanical_maintenance`
-* :doc:`/sr_dexterous_hand_documentation//user_guide/mh_electronic_maintenance`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/mh_mechanical_maintenance`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/mh_electronic_maintenance`
 * :doc:`/sr_dexterous_hand_documentation/user_guide/mh_installing_the_software`
 
 .. toctree::
@@ -177,16 +177,16 @@ Maintaining the system
    :hidden:
    :caption: Maintaining the hand
    
-   sr_dexterous_hand_documentation/user_guide/mh_mechanical_maintenance
-   sr_dexterous_hand_documentation/user_guide/mh_electronic_maintenance
-   sr_dexterous_hand_documentation/user_guide/mh_installing_the_software
+   sr_dexterous_hand_documentation/docs/user_guide/mh_mechanical_maintenance
+   sr_dexterous_hand_documentation/docs/user_guide/mh_electronic_maintenance
+   sr_dexterous_hand_documentation/docs/user_guide/mh_installing_the_software
 
 FAQ & Changelog
 ----------------
 
-* :doc:`/sr_dexterous_hand_documentation//user_guide/fc_FAQ`
-* :doc:`/sr_dexterous_hand_documentation//user_guide/fc_nuc_server`
-* :doc:`/sr_dexterous_hand_documentation//user_guide/fc_changelog`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/fc_FAQ`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/fc_nuc_server`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/fc_changelog`
    
 .. toctree::
    :maxdepth: 2
@@ -200,13 +200,13 @@ FAQ & Changelog
 Support & Teamviewer
 ---------------------
 
-* :doc:`/sr_dexterous_hand_documentation//user_guide/sp_support`
-* :doc:`/sr_dexterous_hand_documentation//user_guide/sp_restore_backup`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/sp_support`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/sp_restore_backup`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Support & Teamviewer
    
-   sr_dexterous_hand_documentation/user_guide/sp_support
-   sr_dexterous_hand_documentation/user_guide/sp_restore_backup
+   sr_dexterous_hand_documentation/docs/user_guide/sp_support
+   sr_dexterous_hand_documentation/docs/user_guide/sp_restore_backup
