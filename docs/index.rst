@@ -118,7 +118,7 @@ Mechanical description
 * :doc:`/sr_dexterous_hand_documentation/user_guide/md_thumb`
 * :doc:`/user_guide/md_ranges`
 * :doc:`user_guide/md_position_sensors`
-* :doc:`/user_guide/md_motor_unit`
+* :doc:`/sr_dexterous_hand_documentation/user_guide/md_motor_unit`
 * :doc:`/user_guide/md_motor_layout`
    
 .. toctree::
@@ -132,7 +132,7 @@ Mechanical description
    sr_dexterous_hand_documentation/user_guide/md_thumb
    user_guide/md_ranges
    user_guide/md_position_sensors
-   user_guide/md_motor_unit
+   sr_dexterous_hand_documentation/user_guide/md_motor_unit
    user_guide/md_motor_layout
 
 Electrical description
