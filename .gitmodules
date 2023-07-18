@@ -1,0 +1,3 @@
+[submodule "docs/sr_dexterous_hand_documentation"]
+	path = docs/sr_dexterous_hand_documentation
+	url = git@github.com:shadow-robot/sr_dexterous_hand_documentation.git
